@@ -1,6 +1,6 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+url: http://cfn.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
@@ -11,24 +11,24 @@ theme:
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
-    github: swanson
+    github: datapolitical
     #bitbucket: philipj
-    hacker_news: swanson
+    hacker_news: datapolitical
     #stackexchange: 348619
     #stackoverflow: 348619
-    twitter: _swanson
+    twitter: chrisfnicholson
     #facebook: zuck
     #tumblr: animalygifs
-    #linkedin: philipjagielski
+    #linkedin: chrisfnicholson
     #gplus: 110552447039675960964
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
+  name: Chris Nicholson
+  email: chris.f.nicholson@gmail.com
   tagline: "weak opinions, strongly held"
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-xxxx-xx
 
   # Toggle "Postings are my own" disclaimer in footer
   show_disclaimer: true

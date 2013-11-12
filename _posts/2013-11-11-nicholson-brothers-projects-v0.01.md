@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Nicholson Brothers - Part 1
+title: The Nicholson Brothers - Project Ideas - v0.01
 categories:
 - startup ideas
 ---

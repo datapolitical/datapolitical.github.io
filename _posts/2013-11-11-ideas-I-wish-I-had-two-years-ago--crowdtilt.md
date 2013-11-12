@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ideas I wish I had two years ago - crowdtilt
+title: Ideas I Wish I had Two Years Ago - Crowdtilt
 categories:
 - startup ideas
 ---

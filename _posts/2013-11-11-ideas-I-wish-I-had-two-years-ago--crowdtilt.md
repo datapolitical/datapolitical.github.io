@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Nicholson Brothers - Project Ideas - v0.01
+title: ideas I wish I had two years ago - crowdtilt
 categories:
 - startup ideas
 ---

@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9//EN
+N:Nicholson;Chris;;;
+FN:Chris Nicholson
+ORG:CNI Consulting;
+TITLE:IT Consultant
+EMAIL;type=INTERNET;type=WORK;type=pref:chris.f.nicholson@gmail.com
+TEL;type=pref:+16508873701
+NOTE:Chris F. Nicholson
+item1.URL;type=pref:http://www.chrisnicholson.tel
+item1.X-ABLabel:Contact Info
+item2.URL:http://www.linkedin.com/in/chrisfnicholson
+item2.X-ABLabel:LinkedIn
+item3.URL:http://www.twitter.com/chrisFnicholson
+item3.X-ABLabel:Twitter
+item4.URL:chrisfnicholson.com
+item4.X-ABLabel:Personal Site
+item5.URL:cfn.io
+item5.X-ABLabel:Coding
+UID:d016e0dc-284e-4baf-966c-f925e8c784d3
+X-ABUID:D016E0DC-284E-4BAF-966C-F925E8C784D3:ABPerson
+X-GENERATOR:telProxy vCard 1.0
+END:VCARD

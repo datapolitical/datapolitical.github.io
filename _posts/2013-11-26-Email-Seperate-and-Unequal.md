@@ -17,9 +17,9 @@ And there is: segregation. I did this with Twitter a few weeks ago. Remove anybo
 
 Taking the same approach with email would normally be a bit difficult. Either I could a) clean up my existing account and create a new one for non-human emails, or b) give people a new address that I don't put online.
 
-Fortunately for option b already exists, I just wasn't using it the way I should have been. My gmail for a long time was datapolitical, something I'd set up in college before the concept of a professional email address was really a concern. As time went on I realized I didn't want that on my business cards, so I created an alias account, chris.f.nicholson. 
+Fortunately for option b already exists, I just wasn't using it the way I should have been. My gmail for a long time was datapolitical, something I'd set up in college before the concept of a professional email address was really a concern. As time went on I realized I didn't want that on my business cards, so I created an alias account. 
 
-I set up Gmail to use chris.f.nicholson as the primary account for sent email, so that even though I was logged in with datapolitical everything would look the same to the people I communicated with. 
+I set up Gmail to use that alias as the primary account for sent email, so that even though I was logged in with datapolitical everything would look the same to the people I communicated with. 
 
 And the system worked. Scanning through the chris.f.nicholson account shows me only a few sporadic non-human emails.  
 

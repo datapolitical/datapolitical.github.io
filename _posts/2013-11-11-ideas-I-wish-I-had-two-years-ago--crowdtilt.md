@@ -2,7 +2,7 @@
 layout: post
 title: Ideas I Wish I had Two Years Ago - Crowdtilt
 categories:
-- startup ideas
+- startup-ideas
 ---
 
 My technical cofounder [James][1] came to me with an idea tonight. "Remember when I was planning the bachelor party for Steve?" 

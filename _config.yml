@@ -2,8 +2,8 @@
 pygments: true
 url: http://cfn.io
 lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore, _drafts/]
-show_drafts: true
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+show_drafts: false
 
 # Theme customization - please change from the defaults!
 theme:

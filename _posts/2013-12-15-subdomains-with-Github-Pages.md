@@ -12,6 +12,6 @@ It turns out you have to regenerate each site when you push a new domain live. I
 If you're in the same position as me (or some related position, more likely), here are the tips I wish I'd found in someone else's blog post.
 
 * A domain hosted on Github Pages should be pointed with an A record at the Github Pages IP address: 202.234.175.78. 
-If you want to use subdomains, point two records, one A record named "@", and one named "*".
+If you want to use subdomains, point two records, one A record named "@", and one named "\*".
 
 

@@ -2,6 +2,7 @@
 pygments: true
 url: http://cfn.io
 lsi: false
+markdown: kramdown
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 show_drafts: false
 
